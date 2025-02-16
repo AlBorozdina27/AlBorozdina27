@@ -1,5 +1,5 @@
 ## Hi there, I'm Aleksandra Borozdina 👋
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif?cid=ecf05e47seokvt535dqhappklr6a8b2m5xlgengunl2k0xbw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <!--
