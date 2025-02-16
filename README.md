@@ -1,7 +1,7 @@
 ## Hi there, I'm Aleksandra Borozdina 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/embed/cQ23bDqzbWbh240xQq" width="600" height="300"/>
 </div>
 
 <!--
