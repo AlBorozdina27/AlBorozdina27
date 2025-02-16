@@ -1,7 +1,9 @@
 ## Hi there, I'm Aleksandra Borozdina 👋
+
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l0YWxycDh5ajBnNmhtdXRveDg1MzF1Y3p3dTY3djVobDlodmI5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cQ23bDqzbWbh240xQq/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <!--
 **AlBorozdina27/AlBorozdina27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
