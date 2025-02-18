@@ -1,5 +1,9 @@
 ## Hi there, I'm Aleksandra Borozdina 👋
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="600" height="300"/>
+</div>
+
 <!--
 **AlBorozdina27/AlBorozdina27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
