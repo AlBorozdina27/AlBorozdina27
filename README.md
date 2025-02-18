@@ -16,7 +16,7 @@ Some information about me:
 - ⚡ Fun fact: ...
 
 <div align="center">
-  <img src="https://media.giphy.com/media/cQ23bDqzbWbh240xQq/giphy.gif?cid=ecf05e47o6w96n2ztzib03h2uw2m672hqzv5wet7d4cyph6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/NSRPQHOnHwV7M8siam/giphy.gif?cid=ecf05e473u7jdsxjqvxaqyt5ndmgdxe8pqbr8mo2m2jju3hl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 <!--
